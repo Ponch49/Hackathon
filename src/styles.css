@@ -1,0 +1,9 @@
+.container {
+    max-height: 50%;
+    max-width: 50%;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}

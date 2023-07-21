@@ -1,0 +1,12 @@
+{
+    "name": "Random image",
+    "version": "1.0.0",   
+    "description": "Posts an image",
+    "manifest_version": 3,
+    "author": "Nassim and Francisco", 
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Our Kitten"
+    }
+
+}
